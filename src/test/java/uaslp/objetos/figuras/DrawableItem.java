@@ -1,5 +1,5 @@
 package uaslp.objetos.figuras;
 
-public interface DrawableIten {
+public interface DrawableItem {
 
 }
